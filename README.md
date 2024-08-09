@@ -1,4 +1,4 @@
-## INPUTS ##
+\## INPUTS ##
 - 1 full Iron Plate belt (Yellow)
 - > Half Copper Plate belt (Yellow)
 
